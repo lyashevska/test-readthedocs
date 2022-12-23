@@ -6,6 +6,7 @@
 Welcome to test documentation!
 ============================================
 Hello world!
+Here is a line to test github hooks.
 
    .. caution::
       This is a caution!
